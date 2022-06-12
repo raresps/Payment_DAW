@@ -18,5 +18,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="AngularFrontEnd\src\assets\" />
+    <Folder Include="AngularFrontEnd\src\app\" />
+  </ItemGroup>
+
 
 </Project>
