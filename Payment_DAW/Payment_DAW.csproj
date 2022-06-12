@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="AngularFrontEnd\src\assets\" />
-    <Folder Include="AngularFrontEnd\src\app\" />
   </ItemGroup>
 
 
